@@ -239,7 +239,7 @@ This repository is still in development: new functionality is being added and th
 |      48 | Update printing method for ParamResult.                      |          #82 |
 |      49 | Update tests to fix some issues.                             |          #87 |
 |      50 | Fix install: Quimb stays optional, Qiskit Aer is default.    |          #90 |
-
+|      51 | Cap Qiskit dependency below version 3                        |           #1 |
 ## IBM Public Repository Disclosure
 
 All content in these repositories including code has been provided by IBM under the associated open source software license and IBM is under no obligation to provide enhancements, updates, or support.
